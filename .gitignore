@@ -1,9 +1,4 @@
-# File Rahasia & Kredensial
+# Isi dari .gitignore
 .env
 serviceAccountKey.json
-
-# Dependencies dan Cache Python
 venv/
-__pycache__/
-*.pyc
-*.log
