@@ -1,0 +1,9 @@
+# File Rahasia & Kredensial
+.env
+serviceAccountKey.json
+
+# Dependencies dan Cache Python
+venv/
+__pycache__/
+*.pyc
+*.log
